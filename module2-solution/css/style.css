@@ -28,18 +28,18 @@ p {
     padding: 50px 17px 10px 17px;
 }
 .backgroud-1 {
-    background-color: #0081ff;
+    background-color: #FF3C33;
 }
 .backgroud-2 {
-    background-color: #00ff4b;
+    background-color: #64FF33;
 }
 .backgroud-3 {
-    background-color: #ff0062;
-    color: #ffffff;
+    background-color: #33BBFF;
+    color: #FF3364;
 }
 .p-section {
     height: 250px;
-    background-color: #3e2723;
+    background-color: #E9D2D8;
     border: 1px solid black;
     margin-bottom: 30px;
     position: relative;
